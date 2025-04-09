@@ -1,7 +1,4 @@
 /* =================================================================== 
- * Luther Main Stylesheet
- * Template Ver. 1.0.0
- * 02-15-2021
  * ------------------------------------------------------------------
  *
  * TOC:
@@ -76,11 +73,11 @@
  * ## fonts 
  * ------------------------------------------------------------------- */
 @import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Serif+Text:ital@0;1&family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
 :root {
 
     --font-1 : "Public Sans", sans-serif;
-    --font-2 : "DM Serif Display", serif;
+    --font-2 : "Pixelify Sans", sans-serif;
 
     /* monospace
     */
